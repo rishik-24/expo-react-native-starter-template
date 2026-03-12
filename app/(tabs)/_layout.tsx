@@ -26,7 +26,7 @@ export default function TabLayout() {
           height: 60,
         },
         tabBarInactiveTintColor: "gray",
-        tabBarActiveTintColor: Colors.hatari.red,
+        tabBarActiveTintColor: Colors.primary,
         tabBarLabelStyle: {
           fontSize: 12,
         },

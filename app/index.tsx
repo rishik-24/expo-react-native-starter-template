@@ -3,6 +3,7 @@ import { Link } from "expo-router";
 import React from "react";
 import { StyleSheet, Text, TouchableOpacity } from "react-native";
 import { SafeAreaProvider } from "react-native-safe-area-context";
+import "../global.css";
 
 export default function Index() {
   return (
@@ -25,6 +26,7 @@ export default function Index() {
           Welcome to React Native Starter Template
         </Text>
         <Text style={{ fontSize: 20 }}>A template by Rishik Roy</Text>
+
         <Link
           href="/(tabs)/home"
           asChild>

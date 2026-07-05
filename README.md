@@ -14,6 +14,7 @@ GitHub: https://github.com/rishik-24
 - TypeScript
 - Clean folder structure
 - Theme support
+- Nativewind Support
 - Reusable components
 - Separate Color structure
 - Optimized for Android & iOS
